@@ -2,7 +2,7 @@
 
 To implement MobileDesignSystem on your SwiftUI Application, add it to your App through Swift Package Manager.
 
-Only you need to register the fonts on the app level as following. 
+Only you need to register the fonts on the app level as following code block.
 
 ```
 import SwiftUI
@@ -23,4 +23,4 @@ struct DesignSystemTestApp: App {
 }
 ```
 
-Please find the example usage under **StyleGuides** folder.
+Please find the example usage under the **StyleGuides** folder.
